@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xugongming38.calculate.AboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:text="      简明计算器是一款易用的手机计算器，简洁清新的界面，简单的操作界面，与此同时提供了在线的高级功能版本，考虑了用户的更多高级需求，弥补了Android手机自带计算器功能的不足，适合多种人群的使用。
+
+" />
+
+</FrameLayout>
